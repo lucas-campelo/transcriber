@@ -1,0 +1,14 @@
+# Folder used by me for storing audio files
+audio/ 
+
+# Python Venv folders
+bin/
+include/
+lib/
+share/
+
+# Python Venv config
+pyvenv.cfg
+
+# Output folder
+output/
